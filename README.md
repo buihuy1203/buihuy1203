@@ -50,7 +50,7 @@
 </picture5
 ## Social Media
 
-<div id="header" align="center">
+<p id="header" align="center">
   <img src="https://img.shields.io/badge/_-Facebook-black?style=social&logo=facebook&logoColor=blue&labelColor=white&color=black&link=https%3A%2F%2Fwww.facebook.com%2Fhuybui.SET%2F"/>
-</div>
+</p>
 
