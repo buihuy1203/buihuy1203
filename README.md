@@ -15,6 +15,7 @@
 ## ⚒️ Working tools
 ![Static Badge](https://img.shields.io/badge/_-C-black?style=flat&logo=C&labelColor=blue&color=black)
 ![Static Badge](https://img.shields.io/badge/_-C%2B%2B-black?style=flat&logo=C%2B%2B&labelColor=blue&color=black)
+![Static Badge](https://img.shields.io/badge/_-python-black?style=flat&logo=python&labelColor=white&color=black)
 ![Static Badge](https://img.shields.io/badge/_-assembly-black?style=flat&logo=AssemblyScript&labelColor=red&color=black)
 ![Static Badge](https://img.shields.io/badge/_-javascript-black?style=flat&logo=javascript&labelColor=gray&color=black)
 ![Static Badge](https://img.shields.io/badge/_-html-black?style=flat&logo=html5&labelColor=white&color=black)
