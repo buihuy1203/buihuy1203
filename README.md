@@ -11,7 +11,9 @@
 - 🎯 Focusing: Embedded System Driver Development and IoT Solution
 - 📃 CV: Here is my CV, just basic information and some repos
 ## Working tools
-![C](https://img.shields.io/badge/_-C-_?style=flat&logo=c&labelColor=blue&color=gray)
+![C](https://img.shields.io/badge/_-C-_?style=flat&logo=c&labelColor=gray&color=blue)
+![C++](https://img.shields.io/badge/_-C%2B%2B-_?style=flat&logo=cplusplusbuilder&labelColor=gray&color=blue)
+
 
 ## Github Stats
 <picture>
