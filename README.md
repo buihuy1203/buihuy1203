@@ -9,6 +9,8 @@
 - 💼 Current Job: Internship for multiple companies, soon will get a job later
 - 📖 Language: Vietnamese, Japanese, English
 - 🎯 Focusing: Embedded System Driver Development and IoT Solution
+- 🩷 Hobbies: 🧑‍💻 Coding, 📸 Taking Photos, ✈️ Travelling, 🎮 Gaming
+- 🏠 Hometown: Hanoi, Vietnam
 - 📃 CV: Here is my CV, just basic information and some repos
 ## ⚒️ Working tools
 ![Static Badge](https://img.shields.io/badge/_-C-black?style=flat&logo=C&labelColor=blue&color=black)
@@ -18,8 +20,10 @@
 ![Static Badge](https://img.shields.io/badge/_-html-black?style=flat&logo=html5&labelColor=white&color=black)
 ![Static Badge](https://img.shields.io/badge/_-arm-black?style=flat&logo=arm&labelColor=white&color=black)
 ![Static Badge](https://img.shields.io/badge/_-Visual_Studio_Code-black?style=flat&logo=visualstudiocode&labelColor=blue&color=black)
-
-
+![Static Badge](https://img.shields.io/badge/_-Adobe_Photoshop-black?style=flat&logo=adobephotoshop&labelColor=white&color=black)
+![Static Badge](https://img.shields.io/badge/_-Adobe_Lightroom_Classic-black?style=flat&logo=adobelightroomclassic&labelColor=white&color=black)
+![Static Badge](https://img.shields.io/badge/_-Linux-black?style=flat&logo=linux&logoColor=black&labelColor=yellow&color=black)
+![Static Badge](https://img.shields.io/badge/_-Windows-black?style=flat&logo=windows&logoColor=blue&labelColor=white&color=black)
 ## 📈 Github Stats
 <picture>
   <source
