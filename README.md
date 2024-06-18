@@ -14,3 +14,4 @@
 
 ## Github Stats
 [![buihuy1203's GitHub stats](https://github-readme-stats.vercel.app/api?username=buihuy1203&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/buihuy1203/github-readme-stats)
+[![buihuy1203's GitHub stats](https://github-readme-stats.vercel.app/api?username=buihuy1203&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/buihuy1203/github-readme-stats)
