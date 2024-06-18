@@ -53,5 +53,10 @@
 
 <p id="header" align="center">
   <img src="https://img.shields.io/badge/_-Facebook-black?style=social&logo=facebook&logoColor=blue&labelColor=white&color=black&link=https%3A%2F%2Fwww.facebook.com%2Fhuybui.SET%2F"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/_-Youtube-black?style=social&logo=youtube&labelColor=white&color=black&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUChvVNWQgfqZhKL51UVE85uw">
+  <img alt="Static Badge" src="https://img.shields.io/badge/_-Instagram-black?style=social&logo=instagram&labelColor=white&color=black&link=https%3A%2F%2Fwww.instagram.com%2Fhuyerror404%2F">
+  <img alt="Static Badge" src="https://img.shields.io/badge/_-Threads-black?style=social&logo=threads&labelColor=white&color=black&link=https%3A%2F%2Fwww.threads.net%2F%40huyerror404">
+  <img alt="Static Badge" src="https://img.shields.io/badge/_-Twitter-black?style=social&logo=X&labelColor=white&color=black&link=https%3A%2F%2Fx.com%2Fbuihuy1345">
+  <img alt="Static Badge" src="https://img.shields.io/badge/_-buihuy1203%40gmail.com-black?style=social&logo=gmail&labelColor=white&color=black">
 </p>
 
