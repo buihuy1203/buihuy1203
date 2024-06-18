@@ -11,8 +11,13 @@
 - 🎯 Focusing: Embedded System Driver Development and IoT Solution
 - 📃 CV: Here is my CV, just basic information and some repos
 ## Working tools
-![C](https://img.shields.io/badge/_-C-_?style=flat&logo=c&labelColor=gray&color=blue)
-![C++](https://img.shields.io/badge/_-C%2B%2B-_?style=flat&logo=cplusplusbuilder&labelColor=gray&color=blue)
+![Static Badge](https://img.shields.io/badge/_-C-black?style=flat&logo=C&labelColor=blue&color=black)
+![Static Badge](https://img.shields.io/badge/_-C%2B%2B-black?style=flat&logo=C%2B%2B&labelColor=blue&color=black)
+![Static Badge](https://img.shields.io/badge/_-assembly-black?style=flat&logo=AssemblyScript&labelColor=red&color=black)
+![Static Badge](https://img.shields.io/badge/_-javascript-black?style=flat&logo=javascript&labelColor=gray&color=black)
+![Static Badge](https://img.shields.io/badge/_-html-black?style=flat&logo=html5&labelColor=white&color=black)
+![Static Badge](https://img.shields.io/badge/_-arm-black?style=flat&logo=arm&labelColor=white&color=black)
+![Static Badge](https://img.shields.io/badge/_-Visual_Studio_Code-black?style=flat&logo=visualstudiocode&labelColor=blue&color=black)
 
 
 ## Github Stats
