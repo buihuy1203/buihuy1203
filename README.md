@@ -13,5 +13,15 @@
 ## Experience
 
 ## Github Stats
-[![buihuy1203's GitHub stats](https://github-readme-stats.vercel.app/api?username=buihuy1203&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/buihuy1203/github-readme-stats)
-[![buihuy1203's GitHub stats](https://github-readme-stats.vercel.app/api?username=buihuy1203&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/buihuy1203/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=buihuy1203&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=buihuy1203&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=buihuy1203&show_icons=true" />
+</picture>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buihuy1203a&layout=compact)
