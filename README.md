@@ -59,5 +59,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/_-Threads-black?style=social&logo=threads&labelColor=white&color=black&link=https%3A%2F%2Fwww.threads.net%2F%40huyerror404">
   <img alt="Static Badge" src="https://img.shields.io/badge/_-Twitter-black?style=social&logo=X&labelColor=white&color=black&link=https%3A%2F%2Fx.com%2Fbuihuy1345">
   <img alt="Static Badge" src="https://img.shields.io/badge/_-buihuy1203%40gmail.com-black?style=social&logo=gmail&labelColor=white&color=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/_-bl1ndf0ld-black?style=social&logo=discord">
 </p>
 
