@@ -10,7 +10,8 @@
 - 📖 Language: Vietnamese, Japanese, English
 - 🎯 Focusing: Embedded System Driver Development and IoT Solution
 - 📃 CV: Here is my CV, just basic information and some repos
-## Experience
+## Working tools
+![C](https://img.shields.io/badge/_-C-_?style=flat&logo=c&labelColor=blue&color=gray)
 
 ## Github Stats
 <picture>
