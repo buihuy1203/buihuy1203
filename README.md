@@ -1,4 +1,6 @@
-## Hi there 👋
+![image](https://github.com/buihuy1203/buihuy1203/assets/85066488/c444b4ed-39d6-4cbc-9e54-670d55a4f3cc)
+
+# Hi there 👋
 
 <!--
 **buihuy1203/buihuy1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
