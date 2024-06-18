@@ -10,7 +10,7 @@
 - 📖 Language: Vietnamese, Japanese, English
 - 🎯 Focusing: Embedded System Driver Development and IoT Solution
 - 📃 CV: Here is my CV, just basic information and some repos
-## Working tools
+## ⚒️ Working tools
 ![Static Badge](https://img.shields.io/badge/_-C-black?style=flat&logo=C&labelColor=blue&color=black)
 ![Static Badge](https://img.shields.io/badge/_-C%2B%2B-black?style=flat&logo=C%2B%2B&labelColor=blue&color=black)
 ![Static Badge](https://img.shields.io/badge/_-assembly-black?style=flat&logo=AssemblyScript&labelColor=red&color=black)
@@ -20,7 +20,7 @@
 ![Static Badge](https://img.shields.io/badge/_-Visual_Studio_Code-black?style=flat&logo=visualstudiocode&labelColor=blue&color=black)
 
 
-## Github Stats
+## 📈 Github Stats
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=buihuy1203&show_icons=true&theme=dark"
