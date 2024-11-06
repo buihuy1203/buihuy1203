@@ -5,8 +5,8 @@
 # 👋 Hi Everyone, Welcome to my profile, Bui Manh Huy
 ## 🐧About Me 
 - 🏫 School: Hanoi University of Science and Technology (2021 - Now)
-- 👨‍🏫 Major: Smart Embedded System and IoT 3rd Year Student
-- 💼 Current Job: Internship for multiple companies, soon will get a job later
+- 👨‍🏫 Major: Smart Embedded System and IoT 4th Year Student
+- 💼 Current Job: Internship for multiple companies, future working in ITOKI Cooperation Manufacture Design
 - 📖 Language: Vietnamese, Japanese, English
 - 🎯 Focusing: Embedded System Driver Development and IoT Solution
 - 🩷 Hobbies: 🧑‍💻 Coding, 📸 Taking Photos, ✈️ Travelling, 🎮 Gaming
