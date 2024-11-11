@@ -3,8 +3,8 @@
 </div>
 
 # 👋 Hi Everyone (皆さん、こんにちは）\
-Welcome to my profile　（私のプロフィールへようこそ）\
-Huy MB (ブイ・マイン・フイ）
+# Welcome to my profile　（私のプロフィールへようこそ）\
+# Huy MB (ブイ・マイン・フイ）
 ## 🐧About Me 
 - 🏫 School: Hanoi University of Science and Technology (2021 - Now)
 - 👨‍🏫 Major: Smart Embedded System and IoT 4th Year Student
