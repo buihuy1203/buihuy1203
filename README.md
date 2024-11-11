@@ -2,16 +2,17 @@
   <img src="https://github.com/buihuy1203/buihuy1203/assets/85066488/c444b4ed-39d6-4cbc-9e54-670d55a4f3cc" width="250"/>
 </div>
 
-# 👋 Hi Everyone, Welcome to my profile, Bui Manh Huy
+# 👋 Hi Everyone, Welcome to my profile, Huy MB (ブイ・マイン・フイ）
 ## 🐧About Me 
 - 🏫 School: Hanoi University of Science and Technology (2021 - Now)
 - 👨‍🏫 Major: Smart Embedded System and IoT 4th Year Student
-- 💼 Current Job: Internship for multiple companies, future working in ITOKI Cooperation Manufacture Design
+- 🔬 Laboratory: SANSLAB - Smart Application Network System Laboratory
+- 💼 Current Job: Internship for multiple companies (Viettel, ITOKI, FPT Software), future working in ITOKI Cooperation Manufacture Design
 - 📖 Language: Vietnamese, Japanese, English
 - 🎯 Focusing: Embedded System Driver Development and IoT Solution
 - 🩷 Hobbies: 🧑‍💻 Coding, 📸 Taking Photos, ✈️ Travelling, 🎮 Gaming
 - 🏠 Hometown: Hanoi, Vietnam
-- 📃 CV: Here is my CV, just basic information and some repos
+- 📃 CV: Here is my [Curriculum Vitae](CV Ung Tuyen.pdf), just basic information and some repos
 ## ⚒️ Working tools
 ![Static Badge](https://img.shields.io/badge/_-C-black?style=flat&logo=C&labelColor=blue&color=black)
 ![Static Badge](https://img.shields.io/badge/_-C%2B%2B-black?style=flat&logo=C%2B%2B&labelColor=blue&color=black)
