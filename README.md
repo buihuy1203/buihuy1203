@@ -2,8 +2,8 @@
   <img src="https://github.com/buihuy1203/buihuy1203/assets/85066488/c444b4ed-39d6-4cbc-9e54-670d55a4f3cc" width="250"/>
 </div>
 
-# 👋 Hi Everyone (皆さん、こんにちは）\
-# Welcome to my profile　（私のプロフィールへようこそ）\
+# 👋 Hi Everyone (皆さん、こんにちは）
+# Welcome to my profile　（私のプロフィールへようこそ）
 # Huy MB (ブイ・マイン・フイ）
 ## 🐧About Me 
 - 🏫 School: Hanoi University of Science and Technology (2021 - Now)
