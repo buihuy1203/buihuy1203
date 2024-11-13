@@ -12,7 +12,7 @@
 - 🎯 Focusing: Embedded System Driver Development and IoT Solution
 - 🩷 Hobbies: 🧑‍💻 Coding, 📸 Taking Photos, ✈️ Travelling, 🎮 Gaming
 - 🏠 Hometown: Hanoi, Vietnam
-- 📃 CV: Here is my [Curriculum Vitae](CV Ung Tuyen.pdf), just basic information and some repos
+- 📃 CV: Here is my ![Curriculum Vitae](CV Ung Tuyen.pdf), just basic information and some repos
 ## ⚒️ Working tools
 ![Static Badge](https://img.shields.io/badge/_-C-black?style=flat&logo=C&labelColor=blue&color=black)
 ![Static Badge](https://img.shields.io/badge/_-C%2B%2B-black?style=flat&logo=C%2B%2B&labelColor=blue&color=black)
